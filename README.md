@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dart, Flutter, Codeigniter, Code Clean**
 
-- 📫 How to reach me **jlugomartinm@gmail.com**
+- 📫 How to reach me **lugomartinm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
