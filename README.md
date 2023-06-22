@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Lugo</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joselugo&label=Profile%20views&color=0e75b6&style=flat" alt="joselugo" /> </p>
-
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
 - 🤝 I am forming a company [Get All Solutions](https://getallsolutions.com.mx)
