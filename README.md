@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 🤝 I am forming a company [Get All Solutions](https://getallsolutions.com.mx)
-
 - 💬 Ask me about **Dart, Flutter, Codeigniter, Code Clean**
 
-- 📫 How to reach me **lugomartinm@gmail.com**
+- 📫 How to reach me **dev.lugomartinm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
